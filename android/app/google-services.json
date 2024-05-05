@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53007256094",
+    "project_id": "zarvisgenix-68ceb",
+    "storage_bucket": "zarvisgenix-68ceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53007256094:android:affdf21880c7a4f7717c0f",
+        "android_client_info": {
+          "package_name": "com.example.zarvis_genix_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Q2yCOERKwXAwAxURAraJ7Wq7G_sepSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
